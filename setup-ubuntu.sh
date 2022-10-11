@@ -21,3 +21,7 @@ echo "alias pbcopy='xsel --clipboard --input'" >> ~/.bash_aliases
 sudo groupadd docker
 sudo gpasswd -a $USER docker
 
+# ale
+# TODO
+# pip
+python3 -m pip install ansible-lint
