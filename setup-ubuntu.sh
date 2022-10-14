@@ -8,6 +8,7 @@ sudo apt update
 sudo apt-get install \
 	neovim \
 	git \
+	ssh \
 	xsel
 
 git config --global user.email "hiroyuki.obinata@gmail.com"
